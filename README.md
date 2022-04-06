@@ -45,7 +45,7 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The Complete JavaScript Course 2022 From Zero to Expert!/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - [React - The Complete Guide](Udemy/The%20Complete%20React%20Developer%20Course)
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 15 - [Complete React Developer in 2022](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
