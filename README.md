@@ -45,8 +45,7 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m 49s` - 10 - [LEARN HTML and CSS]
-(Build Responsive Real-World Websites with HTML and CSS/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
