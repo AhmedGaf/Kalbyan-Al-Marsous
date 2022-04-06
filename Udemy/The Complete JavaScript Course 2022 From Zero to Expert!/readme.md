@@ -22,7 +22,7 @@ Design your unique learning path according to your goals: course pathways
 No coding experience is necessary to take this course! I take you from beginner to expert!
 Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.
 A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course.
-Description
+# Description
 *** The #1 bestselling JavaScript course on Udemy! ***
 
 *** Updated for ES2021 and ES2022 in November 2021 ***
@@ -117,7 +117,7 @@ This course is for you if...
 
 Does any of these look like you? If so, then start this adventure today, and join me and 400,000+ other developers in the only JavaScript course that you will ever need!
 
-Who this course is for:
+# Who this course is for:
 Take this course if you want to gain a true and deep understanding of JavaScript
 Take this course if you have been trying to learn JavaScript but: 1) still don't really understand JavaScript, or 2) still don't feel confident to code real apps
 Take this course if you're interested in using a library/framework like React, Angular, Vue or Node in the future
