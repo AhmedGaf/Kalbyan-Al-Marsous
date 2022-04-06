@@ -4,7 +4,7 @@
  
  <a href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/" target="_blank"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### The Aim of this internship
-- <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
+- <a href="#Fundamentals">Learn Programing Fundamentals </a>
 - <a href="#MERN">Learn MERN Stack</a>
 - <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
 - <a href="#serverless">Learn How to Make serverless web applications</a>
@@ -17,11 +17,11 @@
 - - - -
 <!-- Fundamentals -->
 <span id="Fundamentals"> </span>
-# Learn Programing Fundamentals ,HTMl and CSS
+# Learn Programing Fundamentals
 
 ![10%](https://progress-bar.dev/10/?title=in-progress)
 <br />
-- ## Programming Foundations series and HTML and CSS from Linkdin Learning
+- ## Programming Foundations series from Linkdin Learning
 
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done ` ` 2h 10m ` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 4m ` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
@@ -47,7 +47,7 @@
 # LEARN HTML and CSS
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 10 - [LEARN HTML and CSS](Build Responsive Real-World Websites with HTML and CSS/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 10 - [LEARN HTML and CSS](Build Responsive Real-World Websites with HTML and CSS)
     <br />
 #
 - - - -
