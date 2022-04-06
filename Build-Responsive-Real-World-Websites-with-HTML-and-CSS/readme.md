@@ -148,5 +148,5 @@ Developer skills such as reading documentation, debugging, and using professiona
 How to find and use free design assets such as images, fonts, and icons
 Practice your skills with 10+ challenges (solutions included)
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 <br>[Preview Certificate]()
