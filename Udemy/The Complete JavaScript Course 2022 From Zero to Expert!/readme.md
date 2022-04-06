@@ -123,6 +123,7 @@ Take this course if you have been trying to learn JavaScript but: 1) still don't
 Take this course if you're interested in using a library/framework like React, Angular, Vue or Node in the future
 Take this course if you already know JavaScript and are looking for an advanced course. This course includes expert topics!
 Take this course if you want to get started with programming: JavaScript is a great first language!
+
 -------------------------------
 [Course Link](https://www.udemy.com/course/the-complete-javascript-course/)
 <br>[Preview Certificate]()
