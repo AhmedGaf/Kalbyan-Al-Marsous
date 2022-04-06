@@ -74,8 +74,8 @@
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `7h` - 16 - [AWS Certified Cloud Practitioner](aGuruCloud/AWS%20Certified%20Cloud%20%20Practitioner/)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `35h` - 17 - [AWS Certified Solutions Architect Associate](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 16 - [AWS Certified Cloud Practitioner](aGuruCloud/AWS%20Certified%20Cloud%20%20Practitioner/)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
 <br />
