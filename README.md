@@ -10,7 +10,7 @@
 - <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
 - <a href="#serverless">Learn How to Make serverless web applications</a>
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B377%2049mh-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B377h%2049m-blue">
 <br>
 
 > Note click on the name of the course to see its repository that contains projects, challenges and certificates
@@ -37,7 +37,7 @@
 
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-24h27m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-19h%2019m-blue">
 
 #
 - - - -
@@ -50,7 +50,10 @@
 <br />
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 11 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
     <br />
-#
+    
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-37h%2030m-blue">
+
+ #
 - - - -
 
 <!-- LEARN HTML and CSS -->
@@ -65,7 +68,7 @@
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 16 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 1 7- [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-266h-blue">
 <br />
 
 - - - -
@@ -77,7 +80,7 @@
 - [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 18 - [AWS Certified Cloud Practitioner](aGuruCloud/AWS%20Certified%20Cloud%20%20Practitioner/)
 - [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 19 - [AWS Certified Solutions Architect Associate](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-55h-blue">
 <br />
 
 - - - -
