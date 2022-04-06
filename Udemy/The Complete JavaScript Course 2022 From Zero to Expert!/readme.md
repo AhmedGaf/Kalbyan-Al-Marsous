@@ -1,5 +1,3 @@
-# The Modern JavaScript Bootcamp
+# The Complete JavaScript Course 2022 From Zero to Expert!
 <br>
 
-Thank you Osama Zinhom for helping us <br>
-<a href="https://www.linkedin.com/in/ozidan/" target="blank">Osama's linkedin</a> 
