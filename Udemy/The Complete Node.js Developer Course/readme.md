@@ -1,3 +1,122 @@
 # The Complete Node.js Developer Course
 <br>
 
+# What you'll learn
+Completely refilmed for 3rd edition
+Build, test, and launch Node apps
+Create Express web servers and APIs
+Store data with Mongoose and MongoDB
+Use cutting-edge ES6/ES7 JavaScript
+Deploy your Node apps to production
+Create real-time web apps with SocketIO
+
+# Requirements
+A computer on which you can install software (Windows, MacOS, or Linux)
+A basic understanding of JavaScript (variables, functions, objects, arrays, if statements)
+# Description
+Have you tried to learn Node before? You start a new course, and the instructor has you installing a bunch of libraries before you even know what Node is or how it works. You eventually get stuck and reach out to the instructor, but you get no reply. You then close the course and never open it again.
+
+Sound familiar?
+
+I created this course to be what I wanted when I was learning Node.
+
+The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.
+
+The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.
+
+The best way to learn Node is by building Node apps.
+
+From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.
+
+You’ll be building four projects:
+
+1. A note-taking app to get your feet wet
+
+2. A weather application that interacts with the MapBox and Dark Sky APIs
+
+3. A task manager REST API complete with user accounts and authentication
+
+4. A real-time chat app with a client-side companion
+
+By the end, you’ll be able to take what you’ve learned and launch your own Node application.
+
+When learning, learn the latest.
+
+I work to keep this course full of the most up-to-date Node material out there. This course is compatible with the latest Node.js version.
+
+You’re getting access to hot-off-the-press features.
+
+Everything you need comes in one easy-to-use package.
+
+You can stop worrying if you're learning the right skills to build an app or land a new job. I've curated all the tech that's essential to building real-world apps. I've mapped out everything in a comprehensive, easy-to-follow package designed to get you up and running in a few weeks.
+
+There’s no better time to learn Node.
+
+According to the 2016 Stack Overflow Survey, Node is in the top ten for back-end popularity and back-end salary, with an average salary of $85k. This means more jobs and more opportunities for you.
+
+You might get stuck. But I’m here to help.
+
+There’s nothing worse than getting five hours into a course, getting stuck, and not getting the help you need to continue.
+
+I’m in the Q&A everyday to help you get unstuck. I reply to every question to get you back on track.
+
+Don’t take my word for it. Check the reviews and see what other students are saying.
+
+“Any questions people seem to have are answered swiftly, clearly, and often with examples posted on GitHub. Even when the questions asked are out of the scope of the course Andrew seems to come up trumps." - Adam Tait
+
+"This is amazing. What's even better is the instructor answered all the questions I asked." - Pak Chu
+
+"The real value in this course is Andrew; he is not just a great teacher, but also he's quick to answer questions and provide feedback." - Nick Hester
+
+I guarantee this is the most up-to-date and engaging Node course available, and it comes with a 30-day money-back guarantee.
+
+During eight chapters you'll learn:
+
+1. Node.js
+
+2. Npm
+
+3. Asynchronous programming
+
+4. ES6/ES7
+
+5. MongoDB
+
+6. Express
+
+7. Socket.IO
+
+8. JWT Authentication
+
+9. Mongoose
+
+10. File and image uploads
+
+11. Email sending
+
+12. Application deployment with Heroku
+
+13. Version control with Git
+
+14. GitHub
+
+15. REST API Design
+
+16. Code testing
+
+17. Debugging
+
+18. Jest
+
+19. Many more tools
+
+I can’t wait to see you on the inside!
+
+- Andrew
+
+# Who this course is for:
+Anyone looking to launch their own Node applications, switch careers, or freelance as a Node developer
+
+-------------------------------
+[Course Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+<br>[Preview Certificate]()
