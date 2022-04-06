@@ -45,7 +45,7 @@
 <!-- LEARN HTML and CSS -->
 
 <span id="learn-html-css"></span>
-# LEARN HTML and CSS
+# LEARN HTML And CSS
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 10 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
