@@ -48,7 +48,7 @@
 # LEARN HTML and CSS
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 10 - [LEARN HTML and CSS](Build Responsive Real-World Websites with HTML and CSS)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 10 - [LEARN HTML and CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
     <br />
 #
 - - - -
