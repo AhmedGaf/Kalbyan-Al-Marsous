@@ -1,5 +1,4 @@
 #  LEARN JAVASCRIPT (REACT AND NODE)
-
 #. JavaScript - Select one of these 2 courses to complete
 
 a. The Complete JavaScript Course 2022: From Zero to Expert!
