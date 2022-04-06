@@ -1,7 +1,8 @@
 # The Complete JavaScript Course 2022 From Zero to Expert!
 <br>
 
-What you'll learn
+# What you'll learn
+
 Become an advanced, confident, and modern JavaScript developer from scratch
 Build 6 beautiful real-world projects for your portfolio (not boring toy apps)
 Become job-ready by understanding how JavaScript really works behind the scenes
@@ -17,7 +18,7 @@ Practice your skills with 50+ challenges and assignments (solutions included)
 Get friendly support in the Q&A area
 Design your unique learning path according to your goals: course pathways
 
-Requirements
+# Requirements
 No coding experience is necessary to take this course! I take you from beginner to expert!
 Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.
 A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course.
