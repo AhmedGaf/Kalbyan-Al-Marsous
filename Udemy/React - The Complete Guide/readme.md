@@ -1,4 +1,4 @@
-# The Complete React Developer Course 
+# React - The Complete Guide 
 <br>
 
 Thank you Osama Zinhom for helping us <br>
