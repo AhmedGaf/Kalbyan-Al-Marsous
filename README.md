@@ -10,7 +10,7 @@
 - <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
 - <a href="#serverless">Learn How to Make serverless web applications</a>
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B377h%2049m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B380h-blue">
 <br>
 
 > Note click on the name of the course to see its repository that contains projects, challenges and certificates
@@ -34,10 +34,10 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m ` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m ` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m ` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
-
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-19h%2019m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-21h%2030m-blue">
 
 #
 - - - -
@@ -48,7 +48,7 @@
 # LEARN HTML And CSS
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 11 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
+- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 12 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
     <br />
     
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-37h%2030m-blue">
@@ -61,12 +61,12 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` - 12 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 14 - [React - The Complete Guide](Udemy/React%20-%20The%20Complete%20Guide/)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `38h 30m` - 15 - [Complete React Developer in 2022](Udemy/Complete%20React%20Developer%20in%202022/)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 16 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 1 7- [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` - 13 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 14 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 15 - [React - The Complete Guide](Udemy/React%20-%20The%20Complete%20Guide/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `38h 30m` - 16 - [Complete React Developer in 2022](Udemy/Complete%20React%20Developer%20in%202022/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 17 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 1 8- [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-266h-blue">
 <br />
@@ -77,8 +77,8 @@
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 18 - [AWS Certified Cloud Practitioner](aGuruCloud/AWS%20Certified%20Cloud%20%20Practitioner/)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 19 - [AWS Certified Solutions Architect Associate](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 19 - [AWS Certified Cloud Practitioner](aGuruCloud/AWS%20Certified%20Cloud%20%20Practitioner/)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 20 - [AWS Certified Solutions Architect Associate](aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-55h-blue">
 <br />
@@ -90,4 +90,4 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 20 - [Serverless-Stack-Project](serverless-stack-project/)
+- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 21 - [Serverless-Stack-Project](serverless-stack-project/)
