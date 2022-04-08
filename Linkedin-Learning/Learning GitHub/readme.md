@@ -1,15 +1,10 @@
-# Programming Foundations: Software Testing/QA
+# Learning GitHub
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Aaron Stewart, a training content specialist at GitHub, explains the benefits of version control, how to navigate GitHub and the command line, how GitHub and Git are related, and the best practices for communication and collaboration on GitHub. Aaron also reviews the most common tasks, such as branching, commits, and pull requests, and shows you how to create a simple local project and move it to GitHub to share with your team. Once you have completed the course, you should be able to immediately start using Git and GitHub to manage your own code.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Git
+- GitHub
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/learning-github)
 <br>[Preview Certificate]()
