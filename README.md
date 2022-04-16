@@ -20,12 +20,12 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals
 
-![10%](https://progress-bar.dev/10/?title=in-progress)
+![20%](https://progress-bar.dev/20/?title=in-progress)
 <br />
 - ## Programming Foundations series from Linkdin Learning
 
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done ` ` 2h 10m ` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 4m ` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 4m ` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 40m ` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 45m ` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 22m ` - 05 - [Programming Foundations: Data Structures](Linkedin-Learning/Programming-Foundations-Data-Structures/)
