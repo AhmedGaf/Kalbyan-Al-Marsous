@@ -90,4 +90,4 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 21 - [Serverless-Stack-Project](serverless-stack-project/)
+- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 21 - [Serverless-Stack-Project](Serverless-Stack-Project/)
