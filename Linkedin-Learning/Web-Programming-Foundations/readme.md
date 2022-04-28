@@ -1,15 +1,14 @@
-# Programming Foundations: Software Testing/QA
+# Web Programming Foundations
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- To be an effective web programmer, you have to understand what happens when you enter a URL or click on a link. Under every webpage lies the markup—JavaScript, HTML, and CSS—and the hierarchy that controls display—the Document Object Model (DOM). Then there is the server that hosts the files, the browser that renders them, the metadata, and the mobile experience to consider. Explore what happens below the surface, and learn how to write better code. This course provides a deep dive into the world wide web, and the underlying structures you need to understand to build robust applications and websites that are efficient and easy to maintain. Learn how HTML documents provide the foundation for CSS and JavaScript, and see how to layer presentation and interactions on top. Learn how different code editors and browsers interact with web content, enabling editing, programming, and display. Discover why accessibility is so important to keeping the web open and available to all users, and what workflow works best for web programming. Instructor Morten Rand-Hendriksen keeps the lessons fun and fast-paced, so it's easy for almost anyone—web programmers, web designers, and even web publishers—to follow along.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- From URL to website
+- Structure of a web document
+- Dual-purpose code
+- Accessibility
+- Browsers and editors
+- HTML, CSS, and JavaScript
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/web-programming-foundations/welcome?autoplay=true)
 <br>[Preview Certificate]()
