@@ -1,15 +1,6 @@
-# Programming Foundations: Software Testing/QA
+# Getting Started-as a Full Stack Web Developer
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
----
-### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+-Have you ever said, “I want to get into web development, but I don't know where to start”? If you’re looking for practical ways to begin, then this introductory course is for you. Instructor Tom Geller gets you started on the multi-skill path to becoming a full-stack web developer. Tom introduces the tools you’ll use, then walks you through some simple tasks you can do right away. He shows you how to get online with a webhost, then tackles technologies that you can use to show information, such as HTML and CSS. Tom goes over types of programming languages, website security, tools that let you connect to databases and other sites, and more. He explains ways you can build on the work of others, then concludes with practical advice on developing your skills.
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/getting-started-as-a-full-stack-web-developer/drive-the-online-world-as-a-web-developer?autoplay=true)
 <br>[Preview Certificate]()
