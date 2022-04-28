@@ -1,15 +1,6 @@
-# Programming Foundations: Software Testing/QA
+# Emmet Fast and Efficient Web Coding
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
----
-### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Looking for a tool to make you a faster and more efficient programmer? Take a look at Emmet, a free add-on for a variety of text editors. It provides a shortcut language for writing HTML and CSS, based on an abbreviation structure most developers already use that expands into full-fledged HTML markup and CSS rules. In this course, instructor Emily Kay shows you how to uses the convenient shortcuts in Emmet for making copies of elements; comments, filters, and numbering; matching tags; and even complex CSS features like gradients. Emily also includes details on how to use Emmet with Visual Studio Code.
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/emmet-fast-and-efficient-web-coding/emmet-speeds-up-your-work?autoplay=true)
 <br>[Preview Certificate]()
