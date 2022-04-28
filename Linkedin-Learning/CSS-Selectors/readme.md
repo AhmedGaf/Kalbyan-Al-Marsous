@@ -1,15 +1,16 @@
-# Programming Foundations: Software Testing/QA
+# CSS-Selectors
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- Discover how to effectively leverage the power of selectors to select the elements you want to style without adding classes, changing HTML, or getting overly specific with your selectors. In this course, instructor Jen Kramer demonstrates how to pinpoint specific parts (and groups of parts) in an HTML document using the powerful declarative syntax of CSS selectors. Jen covers combinator selectors, attribute selectors, pseudo-class and pseudo-element selectors, and the universal selector. She also offers tips for determining which selectors might not be supported by your browser choices and shares best practices for mixing selectors in your document. And because this is an easily-tested syntax, Jen includes questions at the end of most videos to reinforce your understanding of each concept.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Targeting classes and IDs
+- Working with group selectors
+- Targeting element attributes
+- Targeting links with pseudo-class selectors
+- Targeting child elements and empty elements
+- Targeting parent, child, and sibling elements
+- Best practices for CSS
+- The impact of CSS selectors on performance
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors?autoplay=true)
 <br>[Preview Certificate]()
