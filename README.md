@@ -47,7 +47,7 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 21 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 22 - [Search Techniques for Web Developers](Linkedin-Learning/Search-Techniques-for-Web-Developers/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 23 - [Succeeding in Web Development Full Stack and Front End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 24 - [User Experience for Web Design](Linkedin-Learning/User-Experience-for-Web Design/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 24 - [User Experience for Web Design](Linkedin-Learning/User-Experience-for-Web-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 25 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
     <br />
 
