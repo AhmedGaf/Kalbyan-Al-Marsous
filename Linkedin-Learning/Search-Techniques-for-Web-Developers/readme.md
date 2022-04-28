@@ -1,15 +1,6 @@
-# Programming Foundations: Software Testing/QA
+# Search  Techniques for Web Developers
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
----
-### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Effective search skills are often a key part of programming talent. In this course, instructor Morten Rand-Hendriksen highlights several search techniques that you, as a web developer, need to know. Morten begins by explaining where to find reliable information. He goes over several possibilities, including the original source, platform resources, status reference sites, and community resources. Next, Morten shows you how to master searches with search techniques for Google, other search engines, internal site searches, and GitHub. He concludes with a discussion of the developers behind every line of code and how you can enrich your searches for information through participating in and contributing to online communities.
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?autoplay=true)
 <br>[Preview Certificate]()
