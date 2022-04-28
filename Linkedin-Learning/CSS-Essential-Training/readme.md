@@ -1,15 +1,17 @@
-# Programming Foundations: Software Testing/QA
+# CSS-Essential-Training
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- Cascading Style Sheets (CSS) is a stylesheet language that allows you to control the appearance of your webpages. In this hands-on course, Christina Truong demonstrates the concepts that form the foundation of CSS, explaining what you need to know to tweak existing CSS and write your own. Christina explains how to add colors and other design elements to take your webpages beyond just black text on a white background. She shows how to use selectors, how the box model defines the spacing and sizing of page elements, and how to style text and manage basic layouts with Flexbox and Grid. She also covers working with advanced selectors, creating fluid layouts, and determining when to use the float and position properties. Plus, at the end of the course, you'll walk away with an actual project—an online résumé page.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Writing basic selectors
+- Setting properties
+- Cascade and inheritance
+- Setting a font family, font size, text color, and more
+- Working with the box model
+- Leveraging Grid and Flexbox
+- Using the float and position properties
+- Working with advanced selectors
+- Creating fluid layouts
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/css-essential-training-3/styling-documents-consistently?autoplay=true)
 <br>[Preview Certificate]()
