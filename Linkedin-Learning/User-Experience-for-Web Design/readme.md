@@ -1,15 +1,27 @@
-# Programming Foundations: Software Testing/QA
+# User-Experience-for-Web Design
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- A good user experience design will make visitors stay on your site. A bad one will make them go to someone else's. This class teaches you how to apply simple UX design principles to your site to make it behave in the way that users want and expect.
+
+User experience expert Chris Nodder teaches
+- What people want from websites, how they search for information, how they read online, and how to structure your content to take advantage of this research
+- How to use graphics to help rather than hinder visitors, how to integrate video, audio, and other media, and when to consider interactive rather than static content
+- How to look at your site's homepage, forms, product pages, and content through the eyes of users to build a site that better meets their needs
+- How to balance site content with advertising
+
+There are never enough great interfaces in the world. Take this easy introduction to start making wonderful online experiences for your own users.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Building a site visitors will like
+- Using single, consistent, and standard design principles
+- Creating good menus
+- Working with site maps
+- Adding search to a site
+- Arranging content in a layout
+- Writing for the web
+- Creating category pages and landing pages
+- Designing product pages and forms
+- Using media and interactive content
+- Balancing ads and content
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/user-experience-for-web-design/welcome?autoplay=true)
 <br>[Preview Certificate]()
