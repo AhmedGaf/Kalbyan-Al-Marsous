@@ -1,15 +1,14 @@
-# Programming Foundations: Software Testing/QA
+# Responsive Layout
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- Responsive design demands that websites adapt to the device they are displayed on. Responsive layout is key, and HTML and CSS now offer features that make it easier than ever to create layouts that will work well on a wide range of devices and screen sizes. In this course, Clarissa Peterson covers the basics of designing responsive website layouts with the latest standards, including CSS Flexbox and Grid. Review the basics, such as working with the position and float properties to adjust the location of elements on screen, and discover how to use media queries to proactively update your layout. Then dive into CSS Grid, including aligning and ordering items within the grid, and find out to work flexbox containers. Finally, learn to build a 12-column design that combines Grid and Flexbox in one layout.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- What is responsive design?
+- The responsive page structure
+- Accessibility and responsive design
+- Using media queries
+- Designing with CSS Grid
+- Designing with CSS Flexbox
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/responsive-layout/go-cross-platform-with-responsive-design?autoplay=true)
 <br>[Preview Certificate]()
