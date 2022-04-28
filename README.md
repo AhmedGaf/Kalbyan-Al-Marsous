@@ -10,7 +10,7 @@
 - <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
 - <a href="#serverless">Learn How to Make serverless web applications</a>
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B380h-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B415h-blue">
 <br>
 
 > Note click on the name of the course to see its repository that contains projects, challenges and certificates
@@ -51,7 +51,7 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 58m ` - 25 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-21h%2030m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-56h%2030m-blue">
 
 #
 - - - -
