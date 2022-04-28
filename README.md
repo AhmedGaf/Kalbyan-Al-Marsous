@@ -35,6 +35,13 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m ` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m ` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    - [ ] 
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-21h%2030m-blue">
