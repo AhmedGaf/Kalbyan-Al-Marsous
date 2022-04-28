@@ -20,7 +20,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals
 
-!20%](https://progress-bar.dev/20/?title=in-progress)
+[!20%](https://progress-bar.dev/20/?title=in-progress)
 <br />
 - ## Programming Foundations series from Linkdin Learning
 
