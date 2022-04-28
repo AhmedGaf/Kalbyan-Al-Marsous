@@ -20,7 +20,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals
 
-![50%](https://progress-bar.dev/50/?title=in-progress)
+![60%](https://progress-bar.dev/60/?title=in-progress)
 <br />
 - ## Programming Foundations series from Linkdin Learning
 
@@ -29,7 +29,7 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 40m ` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 22m ` - 05 - [Programming Foundations: Data Structures](Linkedin-Learning/Programming-Foundations-Data-Structures/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 45m ` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m ` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m ` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 25m ` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m ` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m ` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
@@ -90,4 +90,4 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 21 - [Serverless-Stack-Project](Serverless-Stack-Project/)
+- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` - 21 - [Serverless Stack Project](Serverless-Stack-Project/)
