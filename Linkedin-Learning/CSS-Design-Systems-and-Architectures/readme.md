@@ -1,15 +1,17 @@
-# Programming Foundations: Software Testing/QA
+# CSS-Design-Systems-and-Architectures
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
+- You'd never build a house without a blueprint, so why write CSS without a plan? A strong foundation makes CSS more scalable, reusable, and maintainable. Learn how to define a cohesive design system and robust architecture for your own CSS projects, in this course with Christina Truong. Christina shares strategies to help developers reimagine their workflow from the bottom up. Learn techniques for organizing and inventorying your styles, leveraging open-source frameworks such as Bootstrap, and storing UI patterns and components. Christina also shows how to architect CSS for reusability, using standardized formatting, classes, naming conventions, and templates. These techniques will help reduce the sprawl that seems endemic to web development, and help you become a more efficient, productive designer.
 ---
 ### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- The pros and cons of design systems
+- Open-source frameworks
+- Planning a design system
+- UI patterns and component libraries
+- Style guides
+- Building the CSS architecture
+- Formatting rules
+- Using standardized classes, naming conventions, and templates
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](
+https://www.linkedin.com/learning/css-design-systems-and-architectures/welcome?autoplay=true)
 <br>[Preview Certificate]()
