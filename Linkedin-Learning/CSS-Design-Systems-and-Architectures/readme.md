@@ -1,4 +1,4 @@
-# CSS-Design-Systems-and-Architectures
+# CSS Design Systems and Architectures
 ### Course details
 - You'd never build a house without a blueprint, so why write CSS without a plan? A strong foundation makes CSS more scalable, reusable, and maintainable. Learn how to define a cohesive design system and robust architecture for your own CSS projects, in this course with Christina Truong. Christina shares strategies to help developers reimagine their workflow from the bottom up. Learn techniques for organizing and inventorying your styles, leveraging open-source frameworks such as Bootstrap, and storing UI patterns and components. Christina also shows how to architect CSS for reusability, using standardized formatting, classes, naming conventions, and templates. These techniques will help reduce the sprawl that seems endemic to web development, and help you become a more efficient, productive designer.
 ---
