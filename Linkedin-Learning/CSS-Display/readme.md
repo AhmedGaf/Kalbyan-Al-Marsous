@@ -1,15 +1,6 @@
-# Programming Foundations: Software Testing/QA
+# CSS-Display
 ### Course details
-- Quality assurance (QA) engineering can mean many different things to different people. In this course, learn about QA practices within the context of a software engineering project. Instructor Meaghan Lewis demonstrates the different kinds of testing QA focuses on and how QA fits into the software development life cycle (SDLC). Meaghan explores the areas you'll likely want to test and continuously monitor to ensure increasing improvements to your product. Plus, she goes over some of the mechanisms used to communicate the overall health of a product. Upon wrapping up this course, you'll be able to look at whatever you're working on, think critically about how the pieces fit together, and identify ways to help your team meet quality goals with every release.
----
-### Learning objectives
-- How QA fits into the software development life cycle (SDLC)
-- Setting expectations and goals
-- Making a test plan
-- Incorporating box testing into your process
-- Executing manual testing
-- Leveraging UI automation testing
-- Identifying, reporting, and prioritizing bugs
+- Every CSS layout relies on the display property to tell it basic rules for how to present content. In this course, instructor Jen Kramer explains why the display property is so important and walks you through basic display values and newer display values that you need to understand to make effective use of this property. Jen discusses inline-level elements and the inline display value. She covers block-level elements, the block display value, and how to nest inline and block elements in HTML. Jen describes how to use “display: none” and “visibility: hidden” to hide content. Then she goes into newer display values, such as inline flex and grid values, the flow-root property, inline-block, tables, and list items. Jen concludes with recommendations on further HTM and CSS learning.
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/html-essential-training-4)
+[Course Link](https://www.linkedin.com/learning/css-display/understanding-the-mighty-display-property?autoplay=true)
 <br>[Preview Certificate]()
