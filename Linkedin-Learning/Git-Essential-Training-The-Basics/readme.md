@@ -32,4 +32,4 @@ Register here with LinkedIn Learning.
 For course refund policy, issue resolution, and additional info please see the LinkedIn User Agreement. For more information regarding administrative policies such as complaint and refund, please contact our offices at +1 650-687-3600.
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/d1c35a3d6813910b2bd1f2f15c1e71461c6dd55223d20aed6092dd3cd212bda4?trk=share_certificate)
