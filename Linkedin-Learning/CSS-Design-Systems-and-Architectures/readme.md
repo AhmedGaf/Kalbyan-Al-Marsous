@@ -14,4 +14,4 @@
 -------------------------------
 [Course Link](
 https://www.linkedin.com/learning/css-design-systems-and-architectures/welcome?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/05b543e23c25dee55908c70b7737f09c07ff34a34b84e2599bad0e1f2d953a1a?trk=share_certificate)
