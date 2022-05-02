@@ -38,7 +38,7 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 12 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 42m ` - 13 - [CSS Display](Linkedin-Learning/CSS-Display/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 4h 29m ` - 14 - [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 26m ` - 15 - [CSS Selectors](Linkedin-Learning/CSS-Selectors/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 26m ` - 15 - [CSS Selectors](Linkedin-Learning/CSS-Selectors/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 42m ` - 16 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 17 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m ` - 18 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
