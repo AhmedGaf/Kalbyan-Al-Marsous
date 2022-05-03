@@ -77,10 +77,10 @@
 ## Javascript - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` -26 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` -27 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
-# React - Select one of these 2 courses to complete
+## React - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 28 - [React The Complete Guide](Udemy/React%20-%20The%20Complete%20Guide/)
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `38h 30m` - 29 - [Complete React Developer in 2022](Udemy/Complete%20React%20Developer%20in%202022/)
-# NodeJS - Select one of these 2 courses to complete
+## NodeJS - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 30 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 31 - [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
