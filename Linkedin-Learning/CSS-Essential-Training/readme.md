@@ -14,4 +14,4 @@
 - Creating fluid layouts
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/css-essential-training-3/styling-documents-consistently?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/4f645366c6f2771cbc91bb327acad16bc56812b729a7561302405f5adf3feff7?trk=share_certificate)
