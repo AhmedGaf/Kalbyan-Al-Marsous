@@ -74,7 +74,7 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-# Javascript - Select one of these 2 courses to complete
+## Javascript - Select one of these 2 courses to complete
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` -26 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
 - [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` -27 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
 # React - Select one of these 2 courses to complete
