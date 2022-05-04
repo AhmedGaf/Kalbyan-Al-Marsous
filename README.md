@@ -22,7 +22,7 @@
 
 ![50%](https://progress-bar.dev/50/?title=in-progress)
 <br />
-- ## Programming Foundations series from Linkdin Learning
+- # Programming Foundations series from Linkdin Learning
 
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done ` ` 2h 10m ` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 4m ` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
@@ -34,6 +34,18 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 14m ` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 53m ` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 11m ` - 10 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    <br />
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-18h%2030m-blue">
+
+#
+- - - -
+
+<!-- Additions-Fundamentals -->
+<span id="Additions-Fundamentals"></span>
+# Additions Learn Programing Fundamentals 
+![0%](https://progress-bar.dev/0/?title=in-progress)
+<br />
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 55m ` - 11 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 4h 29m ` - 12 - [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 13 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
@@ -50,11 +62,10 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 58m ` - 24 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-56h%2030m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-30h%200m-blue">
 
 #
 - - - -
-
 <!-- LEARN HTML and CSS -->
 
 <span id="learn-html-css"></span>
@@ -69,7 +80,7 @@
  #
 - - - -
 
-<!-- LEARN HTML and CSS -->
+<!-- LEARN MERN Stack -->
 <span id="MERN"></span>
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
