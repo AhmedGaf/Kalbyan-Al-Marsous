@@ -55,7 +55,7 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 42m ` - 14 - [CSS Display](Linkedin-Learning/CSS-Display/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 26m ` - 15 - [CSS Selectors](Linkedin-Learning/CSS-Selectors/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 32m ` - 16 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m ` - 17 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 45m ` - 17 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 42m ` - 18 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 8m ` - 20 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
