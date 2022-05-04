@@ -20,7 +20,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals
 
-![50%](https://progress-bar.dev/50/?title=in-progress)
+![100%](https://progress-bar.dev/100/?title=in-progress)
 <br />
 - # Programming Foundations series from Linkdin Learning
 
@@ -44,8 +44,11 @@
 <!-- Additions-Fundamentals -->
 <span id="Additions-Fundamentals"></span>
 # Additions Learn Programing Fundamentals 
+
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
+- # Programming Foundations series from Linkdin Learning
+
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 55m ` - 11 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 4h 29m ` - 12 - [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 13 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
