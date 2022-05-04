@@ -11,4 +11,4 @@
 - Designing with CSS Flexbox
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/responsive-layout/go-cross-platform-with-responsive-design?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/04338ff73cc0c61d097fee265bf2ef0c5b1f2f688fd81580765c5ce459aeae0a?trk=share_certificate)
