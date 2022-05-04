@@ -20,9 +20,9 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals
 
-![50%](https://progress-bar.dev/50/?title=in-progress)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
-- ## Programming Foundations series from Linkdin Learning
+- # Programming Foundations series from Linkdin Learning
 
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done ` ` 2h 10m ` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 4m ` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
@@ -33,28 +33,42 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 25m ` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 14m ` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 53m ` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
-    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 55m ` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
-    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 11m ` - 11 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
-    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 12 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
-    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 42m ` - 13 - [CSS Display](Linkedin-Learning/CSS-Display/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 4h 29m ` - 14 - [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 11m ` - 10 - [Learning GitHub](Linkedin-Learning/Learning-GitHub/)
+    <br />
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-18h%2030m-blue">
+
+#
+- - - -
+
+<!-- Additions-Fundamentals -->
+<span id="Additions-Fundamentals"></span>
+# Additions Learn Programing Fundamentals 
+
+![0%](https://progress-bar.dev/0/?title=in-progress)
+<br />
+- # Programming Foundations series from Linkdin Learning
+
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 55m ` - 11 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 4h 29m ` - 12 - [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 13 - [CSS Design Systems and Architectures](Linkedin-Learning/CSS-Design-Systems-and-Architectures/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 42m ` - 14 - [CSS Display](Linkedin-Learning/CSS-Display/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 26m ` - 15 - [CSS Selectors](Linkedin-Learning/CSS-Selectors/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 42m ` - 16 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 17 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m ` - 18 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 8m ` - 19 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 32m ` - 20 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 32m ` - 16 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m ` - 17 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 42m ` - 18 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 8m ` - 20 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 55m ` - 21 - [Search Techniques for Web Developers](Linkedin-Learning/Search-Techniques-for-Web-Developers/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 3m ` - 22 - [Succeeding in Web Development Full Stack and Front End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 49m ` - 23 - [User Experience for Web Design](Linkedin-Learning/User-Experience-for-Web-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 58m ` - 24 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
     <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-56h%2030m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-30h%200m-blue">
 
 #
 - - - -
-
 <!-- LEARN HTML and CSS -->
 
 <span id="learn-html-css"></span>
@@ -69,7 +83,7 @@
  #
 - - - -
 
-<!-- LEARN HTML and CSS -->
+<!-- LEARN MERN Stack -->
 <span id="MERN"></span>
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=in-progress)
