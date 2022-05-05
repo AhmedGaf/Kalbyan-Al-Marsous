@@ -45,7 +45,7 @@
 <span id="Additions-Fundamentals"></span>
 # Additions Learn Programing Fundamentals 
 
-![40%](https://progress-bar.dev/40/?title=in-progress)
+![50%](https://progress-bar.dev/50/?title=in-progress)
 <br />
 - # Programming Foundations series from Linkdin Learning
 
@@ -56,13 +56,14 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 26m ` - 15 - [CSS Selectors](Linkedin-Learning/CSS-Selectors/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 32m ` - 16 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 45m ` - 17 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 42m ` - 18 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 42m ` - 18 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 8m ` - 20 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 55m ` - 21 - [Search Techniques for Web Developers](Linkedin-Learning/Search-Techniques-for-Web-Developers/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 3m ` - 22 - [Succeeding in Web Development Full Stack and Front End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 49m ` - 23 - [User Experience for Web Design](Linkedin-Learning/User-Experience-for-Web-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 58m ` - 24 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
+    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 57m ` - 25 - [AWS and React: Creating Full-Stack Apps](Linkedin-Learning/AWS_and_React:_Creating_Full-Stack_Apps/)
     <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-30h%200m-blue">
@@ -75,7 +76,7 @@
 # LEARN HTML And CSS
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
-- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 25 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
+- [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 30m ` - 26 - [LEARN HTML And CSS](Build-Responsive-Real-World-Websites-with-HTML-and-CSS/)
     <br />
     
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-34h%2035m-blue">
@@ -89,14 +90,14 @@
 ![0%](https://progress-bar.dev/0/?title=in-progress)
 <br />
 ## Javascript - Select one of these 2 courses to complete
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` -26 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` -27 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `69h ` -27 - [The Complete JavaScript Course 2022 From Zero to Expert!](Udemy/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!/) 
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` -28 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
 ## React - Select one of these 2 courses to complete
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 28 - [React The Complete Guide](Udemy/React%20-%20The%20Complete%20Guide/)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `38h 30m` - 29 - [Complete React Developer in 2022](Udemy/Complete%20React%20Developer%20in%202022/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `48h` - 29 - [React The Complete Guide](Udemy/React%20-%20The%20Complete%20Guide/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `38h 30m` - 30 - [Complete React Developer in 2022](Udemy/Complete%20React%20Developer%20in%202022/)
 ## NodeJS - Select one of these 2 courses to complete
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 30 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 31 - [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `46h` - 31 - [Complete NodeJS Developer in 2022](Udemy/Complete%20NodeJS%20Developer%20in%202022)
+- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 32 - [The Complete Node.js Developer Course](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-266h-blue">
 <br />
@@ -107,8 +108,8 @@
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 32 - [AWS Certified Cloud Practitioner](AGuruCloud/AWS%20Certified%20Cloud%20Practitioner/)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 33 - [AWS Certified Solutions Architect Associate](AGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `13h` - 33 - [AWS Certified Cloud Practitioner](AGuruCloud/AWS%20Certified%20Cloud%20Practitioner/)
+- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `in progress` `42h` - 34 - [AWS Certified Solutions Architect Associate](AGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-55h-blue">
 <br />
@@ -120,4 +121,4 @@
 
 # Learn How to Make serverless web applications
 ![0%](https://progress-bar.dev/0/?title=in-progress)
-- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` -34 - [Serverless Stack Project](Serverless-Stack-Project/)
+- [ ] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `in progress` -35 - [Serverless Stack Project](Serverless-Stack-Project/)
