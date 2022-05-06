@@ -11,4 +11,4 @@
 - HTML, CSS, and JavaScript
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/web-programming-foundations/welcome?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/522a0cb59187140e98b4407133375dbbd77ce0216a9766d2b14408d3c72c996b?trk=share_certificate)
