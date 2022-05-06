@@ -24,4 +24,4 @@ There are never enough great interfaces in the world. Take this easy introductio
 - Balancing ads and content
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/user-experience-for-web-design/welcome?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/94b5fc75e13b352ea479af40cafc612695489c25a7e381e1cc89b5a35c4a2a5c?trk=share_certificate)
