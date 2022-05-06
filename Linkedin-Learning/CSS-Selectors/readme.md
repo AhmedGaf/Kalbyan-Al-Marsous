@@ -13,4 +13,4 @@
 - The impact of CSS selectors on performance
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors?autoplay=true)
-<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/644aced07e686914d9fcd39d98210ba098754c1e6c33a144009a7c3d89358394?trk=share_certificate)
+<br/>[Preview Certificate](https://www.linkedin.com/learning/certificates/644aced07e686914d9fcd39d98210ba098754c1e6c33a144009a7c3d89358394?trk=share_certificate)
