@@ -12,4 +12,4 @@
 - Negotiating your salary
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/35465cff6fb125a484a770348de7b39639809242ccdce304ea0e3b30b3c0a361?trk=share_certificate)
