@@ -60,7 +60,7 @@
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 8m ` - 20 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 0h 55m ` - 21 - [Search Techniques for Web Developers](Linkedin-Learning/Search-Techniques-for-Web-Developers/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 3m ` - 22 - [Succeeding in Web Development Full-Stack and Front-End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 3m ` - 22 - [Succeeding in Web Development Full-Stack and Front-End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 49m ` - 23 - [User Experience for Web Design](Linkedin-Learning/User-Experience-for-Web-Design/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 58m ` - 24 - [Web Programming Foundations](Linkedin-Learning/Web-Programming-Foundations/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 57m ` - 25 - [AWS and React: Creating Full-Stack Apps](Linkedin-Learning/AWS_and_React_Creating_Full-Stack_Apps//)
