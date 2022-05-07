@@ -16,4 +16,4 @@
 - Polling and event-driven programming
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-real-world-examples/welcome?autoplay=true)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/c1c872f73b1a779495cbec4bb763ac9cbf5af8eee01a6ac2622736b103fd6a24?trk=share_certificate)
