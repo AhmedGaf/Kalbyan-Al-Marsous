@@ -45,7 +45,7 @@
 <span id="Additions-Fundamentals"></span>
 # Additions Learn Programing Fundamentals 
 
-![90%](https://progress-bar.dev/70/?title=in-progress)
+![100%](https://progress-bar.dev/100/?title=in-progress)
 <br />
 - # Programming Foundations series from Linkdin Learning
 
