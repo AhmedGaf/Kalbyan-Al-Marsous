@@ -57,7 +57,7 @@
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 32m ` - 16 - [Responsive Layout](Linkedin-Learning/Responsive-Layout/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 45m ` - 17 - [HTML Essential Training](Linkedin-Learning/HTML-Essential-Training/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 42m ` - 18 - [Emmet Fast and Efficient Web Coding](Linkedin-Learning/Emmet-Fast-and-Efficient-Web-Coding/)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
+    - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 3h 31m ` - 19 - [Getting Started as a Full Stack Web Developer](Linkedin-Learning/Getting-Started-as-a-Full-Stack-Web-Developer/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 3h 8m ` - 20 - [Programming Foundations Real World Examples](Linkedin-Learning/Programming-Foundations-Real-World-Examples/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 0h 55m ` - 21 - [Search Techniques for Web Developers](Linkedin-Learning/Search-Techniques-for-Web-Developers/)
     - [X] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 3m ` - 22 - [Succeeding in Web Development Full-Stack and Front-End](Linkedin-Learning/Succeeding-in-Web-Development-Full-Stack-and-Front-End/)
